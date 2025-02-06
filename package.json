@@ -1,0 +1,20 @@
+{
+  "name": "pinocchio",
+  "version": "1.0.0",
+  "description": "A minimalist tool for Git based server provisioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dm1057/pinocchio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dm1057/pinocchio/issues"
+  },
+  "homepage": "https://github.com/dm1057/pinocchio#readme"
+}
